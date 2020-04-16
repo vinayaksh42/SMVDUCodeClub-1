@@ -79,37 +79,36 @@ body, html {
 
 }
 .bgimg-1 {
-  background-image: url("../pics/bg1.jpg");
+  background-image: url(https://cdn.psychologytoday.com/sites/default/files/styles/amp_metadata_content_image_min_1200px_wide/public/field_blog_entry_images/2019-07/studentlearning.jpg?itok=NXM5cWGS);
   min-height: 100%;
 }
 
 .bgimg-2 {
-  background-image: url("../pics/bg2.png");
+  background-image: url(https://miro.medium.com/max/2560/1*_wYismizz9hLAcWxG3SkXg.png);
   min-height: 500px;
 }
 
 .bgimg-3 {
-  background-image: url("../pics/bg3.jpg");
+  background-image: url(https://www.movinnza.in/assets/img/Web_development%20.jpg);
   min-height: 500px;
 }
 
 .bgimg-4 {
-  background-image: url("../pics/bg4.jpg");
+  background-image: url(https://www.bbva.com/wp-content/uploads/2019/11/machine-learning-1024x629.jpg);
   min-height: 500px;
 }
 .bgimg-5 {
-  background-image: url("../pics/bg5.png");
+  background-image: url(https://media.geeksforgeeks.org/wp-content/cdn-uploads/20191105192037/What-Are-The-Best-Resources-For-Competitive-Programming.png);
   min-height: 500px;
 }
 .bgimg-6 {
-  background-image: url("../pics/bg6.png");
+  background-image: url(https://josephdelgadillo.com/wp-content/uploads/2019/04/Master-Ethical-Hacking-with-Python.png);
   min-height: 500px;
 }
 .bgimg-7 {
-  background-image: url("../pics/bg7.jpg");
+  background-image: url(https://www.bleepstatic.com/images/news/deals/misc/february-2017/original_sale_6708_image_wide-update[1].jpg);
   min-height: 500px;
 }
-
 .caption {
   position: absolute;
   left: 0;
